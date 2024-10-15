@@ -1,0 +1,6 @@
+@address_optimizer_HostAddress = http://localhost:5224
+
+GET {{address_optimizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
